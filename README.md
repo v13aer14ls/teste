@@ -7,3 +7,8 @@ tentativa numero 5 !
   
 
 coisa maooss
+
+
+
+permissoes adicionadas  
+

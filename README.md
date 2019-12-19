@@ -1,7 +1,3 @@
 # teste
-mudando esse trem
-Arrumando 
-mudando denovo . 
-vaiu
-vaiu
-vamo
+Esse repositorio server para testar meu app
+
